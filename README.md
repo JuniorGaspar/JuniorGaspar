@@ -40,11 +40,7 @@
 ## [ ADVANCED METRICS ]
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JuniorGaspar&theme=matrix&no-bg=true&no-frame=true&row=1&column=6"/>
-</p>
-
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/JuniorGaspar/JuniorGaspar/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=JuniorGaspar&theme=darkhub&no-bg=true&no-frame=true&row=1&column=6&title=Stars,Commit,Repositories,PullRequest,Issues,Followers"/>
 </p>
 
 ---
@@ -99,9 +95,4 @@
 <p align="center">
   <code>KNOCK, KNOCK, NEO.</code><br>
   <b>SYSTEM READY.</b>
-</p>
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JuniorGaspar&label=PROFILE%20VIEWS&color=00ff41&style=flat-square" />
 </p>
