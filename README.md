@@ -22,10 +22,10 @@
 
 <p align="center"> 
   <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=JuniorGaspar&show_icons=true&theme=transparent&hide_border=true&title_color=00ff41&text_color=00ff41&icon_color=00ff41"/>
+       src="https://github-readme-stats-sigma-five.vercel.app/api?username=JuniorGaspar&show_icons=true&hide_border=true&bg_color=00000000&title_color=00ff41&text_color=00ff41&icon_color=00ff41"/>
 
   <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorGaspar&layout=compact&theme=transparent&hide_border=true&title_color=00ff41&text_color=00ff41"/>
+       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JuniorGaspar&layout=compact&hide_border=true&bg_color=00000000&title_color=00ff41&text_color=00ff41"/>
 </p>
 
 <p align="center">
