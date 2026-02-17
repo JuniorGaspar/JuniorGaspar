@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JuniorGaspar/JuniorGaspar/main/assets/matrix-code-rain.svg" width="100%"/>
-</p>
 
 ## [ SYSTEM SCAN ]
 
