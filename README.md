@@ -60,9 +60,16 @@ $ cat career.log
 
 $ systemctl status system_specialist.service
 
-ROLE: System Specialist
-EXPERIENCE: 14+ years
-STATUS: ACTIVE
+● system_specialist.service - Junior Gaspar
+   Loaded: loaded (/etc/systemd/system/system_specialist.service)
+   Active: active (running) since 2011
+   Main PID: 0110 (core-engine)
+
+   ROLE: System Specialist
+   ENVIRONMENT: Enterprise
+   EXPERIENCE: 14+ years
+   STATUS: ACTIVE
+
 ```
 
 </details>
