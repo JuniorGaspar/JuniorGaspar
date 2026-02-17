@@ -15,9 +15,11 @@
 ```text
   ID: Junior Gaspar
   ROLE: System Specialist | Software Developer
-  STATUS: ONLINE [ ████████████████████ ] 100%
   LOCATION: BRAZIL/MARINGÁ - PR
   UPTIME: 14+ YEARS OF EXPERIENCE
+
+  STATUS: ONLINE  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100%
+
 ```
 
 ---
@@ -73,6 +75,38 @@
 
 ---
 
+## [ CLASSIFIED ACCESS ]
+
+<details>
+  <summary>🟢 RUN HIDDEN SCRIPT</summary>
+
+```bash
+$ whoami
+Junior Gaspar
+
+$ access --enterprise-projects
+ACCESS DENIED
+
+$ cat career.log
+
+[2009]  first production deployment
+[2012]  database specialization – SQL Server / Oracle
+[2016]  enterprise system integrations
+[2020]  legacy modernization protocols initialized
+[2024]  SYSTEM SPECIALIST
+
+$ systemctl status system_specialist.service
+
+ROLE: System Specialist
+ENVIRONMENT: Enterprise
+EXPERIENCE: 14+ years
+STATUS: ACTIVE
+```
+
+</details>
+
+---
+
 ## [ SECURE UPLINK ]
 
 <p align="center">
@@ -85,5 +119,5 @@
 
 <p align="center">
   <code>KNOCK, KNOCK, NEO.</code><br>
-  <b>SYSTEM READY.</b>
+  <b>THE SYSTEM IS RUNNING.</b>
 </p>
