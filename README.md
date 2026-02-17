@@ -98,6 +98,5 @@ STATUS: ACTIVE
 ---
 
 <p align="center">
-  <code>KNOCK, KNOCK, NEO.</code><br>
   <b>THE SYSTEM IS RUNNING.</b>
 </p>
