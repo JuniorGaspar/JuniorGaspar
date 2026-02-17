@@ -6,20 +6,13 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=00FF41&size=25&center=true&vCenter=true&width=700&lines=WAKE+UP,+JUNIOR...;THE+MATRIX+HAS+YOU...;BOOTING+ENTERPRISE+SYSTEMS...;CONNECTING+TO+LEGACY+DATABASES...;MODERNIZATION+IN+PROGRESS...;ACCESS_GRANTED" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JuniorGaspar&label=PROFILE%20VIEWS&color=00ff41&style=flat-square" />
-</p>
 
 ## [ SYSTEM SCAN ]
 
 ```text
   ID: Junior Gaspar
-  ROLE: System Specialist | Software Developer
-  LOCATION: BRAZIL/MARINGÁ - PR
-  UPTIME: 14+ YEARS OF EXPERIENCE
-
-  STATUS: ONLINE  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100%
-
+  STATUS: ONLINE [ ████████████████████ ] 100%
+  LOCATION: BRAZIL/MARINGÁ - PR        
 ```
 
 ---
@@ -75,30 +68,31 @@
 
 ---
 
-## [ CLASSIFIED ACCESS ]
+## [ EXTENDED LOGS ]
 
 <details>
-  <summary>🟢 RUN HIDDEN SCRIPT</summary>
+  <summary>🟢 RUN SCRIPT</summary>
 
 ```bash
-$ whoami
-Junior Gaspar
+$ decrypt --contact
+[ SYSTEM OVERRIDE ]
+[ ACCESS GRANTED ]
+UPLINK: junior.gaspar2@gmail.com
 
 $ access --enterprise-projects
 ACCESS DENIED
 
 $ cat career.log
 
-[2009]  first production deployment
-[2012]  database specialization – SQL Server / Oracle
-[2016]  enterprise system integrations
-[2020]  legacy modernization protocols initialized
-[2024]  SYSTEM SPECIALIST
+| ENTERPRISE           | STATUS     | LEVEL             | CYCLE         |
+| :---                 | :---       | :---              | :---          |
+| **VITRU EDUCAÇÃO**   | `RUNNING`  | SENIOR SPECIALIST | 2021 – PRESENT|
+| **CSD DISTRIBUIÇÃO** | `ARCHIVED` | SENIOR SPECIALIST | 2017 – 2021   |
+| **ATAK SISTEMAS**    | `ARCHIVED` | ANALYST           | 2011 – 2017   |
 
 $ systemctl status system_specialist.service
 
 ROLE: System Specialist
-ENVIRONMENT: Enterprise
 EXPERIENCE: 14+ years
 STATUS: ACTIVE
 ```
