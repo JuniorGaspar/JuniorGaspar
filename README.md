@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00FF41&size=24&center=true&vCenter=true&width=900&lines=KNOCK,+KNOCK,+JUNIOR...;FOLLOW+THE+WHITE+RABBIT.;INITIALIZING+ENTERPRISE+SYSTEMS...;DECRYPTING+LEGACY+DATABASES...;REFACTORING+THE+MONOLITH...;SYSTEM+SPECIALIST+DETECTED...;WELCOME+TO+THE+REAL+WORLD." />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Matrix_Digital_rain_banner.gif" width="900"/>
 </p>
 
 
