@@ -34,15 +34,6 @@
        src="https://github-readme-activity-graph.vercel.app/graph?username=JuniorGaspar&bg_color=transparent&color=00ff41&line=00ff41&point=00ff41&hide_border=true"/>
 </p>
 
-
----
-
-## [ ADVANCED METRICS ]
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JuniorGaspar&theme=darkhub&no-bg=true&no-frame=true&row=1&column=6&title=Stars,Commit,Repositories,PullRequest,Issues,Followers"/>
-</p>
-
 ---
 
 ## [ ACTIVE PROCESSES ]
