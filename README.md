@@ -20,28 +20,24 @@
 
 ## [ CORE METRICS ]
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JuniorGaspar&show_icons=true&theme=tokyonight&hide_border=true">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuniorGaspar&show_icons=true&theme=default&hide_border=true">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorGaspar&layout=compact&theme=tokyonight&hide_border=true">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorGaspar&layout=compact&theme=default&hide_border=true">
-  </picture>
+<p align="center"> 
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=JuniorGaspar&show_icons=true&theme=transparent&hide_border=true&title_color=00ff41&text_color=00ff41&icon_color=00ff41"/>
+
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorGaspar&layout=compact&theme=transparent&hide_border=true&title_color=00ff41&text_color=00ff41"/>
 </p>
+
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=JuniorGaspar&theme=tokyonight&hide_border=true">
-    <img height="180em" src="https://streak-stats.demolab.com?user=JuniorGaspar&theme=default&hide_border=true">
-  </picture>
+  <img height="180em"
+       src="https://streak-stats.demolab.com?user=JuniorGaspar&theme=transparent&hide_border=true&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=00ff41&sideNums=00ff41&dates=00ff41"/>
 </p>
+
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=JuniorGaspar&theme=tokyo-night&hide_border=true">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JuniorGaspar&theme=github&hide_border=true">
-  </picture>
+  <img width="100%"
+       src="https://github-readme-activity-graph.vercel.app/graph?username=JuniorGaspar&bg_color=transparent&color=00ff41&line=00ff41&point=00ff41&hide_border=true"/>
 </p>
+
 
 ---
 
