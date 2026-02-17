@@ -21,8 +21,8 @@
 ## [ CORE METRICS ]
 
 <p align="center"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuniorGaspar&show_icons=true&theme=chartreuse-dark&hide_border=true&icon_color=00FF41&title_color=00FF41&text_color=FFFFFF&bg_color=0D1117"/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorGaspar&layout=compact&theme=chartreuse-dark&hide_border=true&title_color=00FF41&text_color=FFFFFF&bg_color=0D1117"/> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuniorGaspar&show_icons=true&theme=chartreuse-dark&hide_border=true"/> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorGaspar&layout=compact&theme=chartreuse-dark&hide_border=true"/>
 </p>
 
 ---
