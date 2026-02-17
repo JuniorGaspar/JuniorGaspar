@@ -3,7 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00FF41&size=25&center=true&vCenter=true&width=700&lines=WAKE+UP,+JUNIOR...;THE+MATRIX+HAS+YOU...;BOOTING+SYSTEM+SPECIALIST+PROFILE...;ACCESS_GRANTED" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00FF41&size=25&center=true&vCenter=true&width=700&lines=WAKE+UP,+JUNIOR...;THE+MATRIX+HAS+YOU...;BOOTING+ENTERPRISE+SYSTEMS...;CONNECTING+TO+LEGACY+DATABASES...;MODERNIZATION+IN+PROGRESS...;ACCESS_GRANTED" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JuniorGaspar&label=PROFILE%20VIEWS&color=00ff41&style=flat-square" />
 </p>
 
 ## [ SYSTEM SCAN ]
@@ -21,8 +25,26 @@
 ## [ CORE METRICS ]
 
 <p align="center">
-  <img height="180em"
-       src="https://streak-stats.demolab.com?user=JuniorGaspar&theme=transparent&hide_border=true&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=00ff41&sideNums=00ff41&dates=00ff41"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/?username=JuniorGaspar&show_icons=true&theme=tokyonight&hide_border=true&show=reviews,prs_merged,prs_merged_percentage">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuniorGaspar&show_icons=true&theme=default&hide_border=true&show=reviews,prs_merged,prs_merged_percentage">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorGaspar&layout=compact&theme=tokyonight&hide_border=true">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorGaspar&layout=compact&theme=default&hide_border=true">
+  </picture>
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=JuniorGaspar&theme=tokyonight&hide_border=true">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=JuniorGaspar&theme=default&hide_border=true">
+  </picture>
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=JuniorGaspar&theme=tokyonight&hide_border=true">
+    <img height="180em" src="https://streak-stats.demolab.com?user=JuniorGaspar&theme=default&hide_border=true">
+  </picture>
 </p>
 
 <p align="center">
@@ -30,6 +52,18 @@
        src="https://github-readme-activity-graph.vercel.app/graph?username=JuniorGaspar&bg_color=transparent&color=00ff41&line=00ff41&point=00ff41&hide_border=true"/>
 </p>
 
+
+---
+
+## [ ADVANCED METRICS ]
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JuniorGaspar&theme=matrix&no-bg=true&no-frame=true&row=1&column=6"/>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/JuniorGaspar/JuniorGaspar/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 
 ---
 
