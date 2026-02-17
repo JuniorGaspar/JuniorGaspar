@@ -21,8 +21,14 @@
 ## [ CORE METRICS ]
 
 <p align="center"> 
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuniorGaspar&show_icons=true&theme=chartreuse-dark&hide_border=true"/> 
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorGaspar&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuniorGaspar&show_icons=true&theme=tokyonight&hide_border=true"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorGaspar&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+<p align="center">
+  <img height="180em" src="https://streak-stats.demolab.com?user=JuniorGaspar&theme=tokyonight&hide_border=true"/>
+</p>
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JuniorGaspar&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
