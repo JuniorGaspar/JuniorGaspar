@@ -20,16 +20,27 @@
 
 ## [ CORE METRICS ]
 
-<p align="center"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuniorGaspar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorGaspar&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JuniorGaspar&show_icons=true&theme=tokyonight&hide_border=true">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuniorGaspar&show_icons=true&theme=default&hide_border=true">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorGaspar&layout=compact&theme=tokyonight&hide_border=true">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorGaspar&layout=compact&theme=default&hide_border=true">
+  </picture>
 </p>
 <p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=JuniorGaspar&theme=tokyonight&hide_border=true"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=JuniorGaspar&theme=tokyonight&hide_border=true">
+    <img height="180em" src="https://streak-stats.demolab.com?user=JuniorGaspar&theme=default&hide_border=true">
+  </picture>
 </p>
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JuniorGaspar&theme=tokyo-night&hide_border=true"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=JuniorGaspar&theme=tokyo-night&hide_border=true">
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JuniorGaspar&theme=github&hide_border=true">
+  </picture>
 </p>
 
 ---
