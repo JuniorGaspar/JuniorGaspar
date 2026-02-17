@@ -1,61 +1,56 @@
-<svg width="1000" height="200" viewBox="0 0 1000 200" preserveAspectRatio="xMidYMid slice" xmlns="http://www.w3.org/2000/svg">
-  <rect width="100%" height="100%" fill="black" />
-  <style>
-    .t { font-family: monospace; font-size: 14px; fill: #00FF41; opacity: 0; }
-    @keyframes rain {
-      0% { transform: translateY(-100%); opacity: 0; }
-      10% { opacity: 1; }
-      80% { opacity: 1; }
-      100% { transform: translateY(200px); opacity: 0; }
-    }
-    .c { animation: rain linear infinite; }
-  </style>
-
+<svg viewBox="0 0 1200 400" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <g id="drop">
-      <text y="0" class="t">ｱ</text><text y="20" class="t">ｶ</text><text y="40" class="t">ｻ</text>
-      <text y="60" class="t">ﾀ</text><text y="80" class="t">ﾅ</text><text y="100" class="t">ﾊ</text>
-      <text y="120" class="t">1</text><text y="140" class="t">0</text><text y="160" class="t">X</text>
-    </g>
+    <style>
+      .bg { fill: black; }
+      .code {
+        fill: #00ff41;
+        font-family: monospace;
+        font-size: 14px;
+        opacity: 0.85;
+      }
+    </style>
+
+    <!-- animação de queda -->
+    <symbol id="rain">
+      <text y="-100%" class="code" writing-mode="tb">
+        1010101010101010101010101010101010101010101010101010
+        <animate attributeName="y" from="-100%" to="100%" dur="6s" repeatCount="indefinite"/>
+      </text>
+    </symbol>
   </defs>
 
-  <!-- Generating columns with different timings -->
-  <g transform="translate(10,0)"><use href="#drop" class="c" style="animation-duration: 3s; animation-delay: 0s;"/></g>
-  <g transform="translate(40,0)"><use href="#drop" class="c" style="animation-duration: 4s; animation-delay: 1.2s;"/></g>
-  <g transform="translate(70,0)"><use href="#drop" class="c" style="animation-duration: 2.5s; animation-delay: 0.5s;"/></g>
-  <g transform="translate(100,0)"><use href="#drop" class="c" style="animation-duration: 3.5s; animation-delay: 2.1s;"/></g>
-  <g transform="translate(130,0)"><use href="#drop" class="c" style="animation-duration: 4.5s; animation-delay: 0.8s;"/></g>
-  <g transform="translate(160,0)"><use href="#drop" class="c" style="animation-duration: 2.8s; animation-delay: 1.5s;"/></g>
-  <g transform="translate(190,0)"><use href="#drop" class="c" style="animation-duration: 3.2s; animation-delay: 0.2s;"/></g>
-  <g transform="translate(220,0)"><use href="#drop" class="c" style="animation-duration: 4.2s; animation-delay: 1.8s;"/></g>
-  <g transform="translate(250,0)"><use href="#drop" class="c" style="animation-duration: 3s; animation-delay: 2.5s;"/></g>
-  <g transform="translate(280,0)"><use href="#drop" class="c" style="animation-duration: 3.8s; animation-delay: 0.4s;"/></g>
-  <!-- Repeat pattern across width -->
-  <g transform="translate(300,0)">
-    <g transform="translate(10,0)"><use href="#drop" class="c" style="animation-duration: 3.2s; animation-delay: 1.1s;"/></g>
-    <g transform="translate(40,0)"><use href="#drop" class="c" style="animation-duration: 4.1s; animation-delay: 0.3s;"/></g>
-    <g transform="translate(70,0)"><use href="#drop" class="c" style="animation-duration: 2.6s; animation-delay: 1.9s;"/></g>
-    <g transform="translate(100,0)"><use href="#drop" class="c" style="animation-duration: 3.4s; animation-delay: 0.6s;"/></g>
-    <g transform="translate(130,0)"><use href="#drop" class="c" style="animation-duration: 4.4s; animation-delay: 1.4s;"/></g>
-    <g transform="translate(160,0)"><use href="#drop" class="c" style="animation-duration: 2.9s; animation-delay: 2.2s;"/></g>
-    <g transform="translate(190,0)"><use href="#drop" class="c" style="animation-duration: 3.1s; animation-delay: 0.9s;"/></g>
-    <g transform="translate(220,0)"><use href="#drop" class="c" style="animation-duration: 4.3s; animation-delay: 1.1s;"/></g>
-  </g>
-  <g transform="translate(600,0)">
-    <g transform="translate(10,0)"><use href="#drop" class="c" style="animation-duration: 3.5s; animation-delay: 0.7s;"/></g>
-    <g transform="translate(40,0)"><use href="#drop" class="c" style="animation-duration: 2.8s; animation-delay: 2.4s;"/></g>
-    <g transform="translate(70,0)"><use href="#drop" class="c" style="animation-duration: 4.0s; animation-delay: 1.3s;"/></g>
-    <g transform="translate(100,0)"><use href="#drop" class="c" style="animation-duration: 3.2s; animation-delay: 0.1s;"/></g>
-    <g transform="translate(130,0)"><use href="#drop" class="c" style="animation-duration: 4.6s; animation-delay: 1.7s;"/></g>
-    <g transform="translate(160,0)"><use href="#drop" class="c" style="animation-duration: 2.7s; animation-delay: 0.4s;"/></g>
-    <g transform="translate(190,0)"><use href="#drop" class="c" style="animation-duration: 3.3s; animation-delay: 2.0s;"/></g>
-    <g transform="translate(220,0)"><use href="#drop" class="c" style="animation-duration: 4.1s; animation-delay: 0.8s;"/></g>
-    <g transform="translate(250,0)"><use href="#drop" class="c" style="animation-duration: 3.6s; animation-delay: 1.5s;"/></g>
-    <g transform="translate(280,0)"><use href="#drop" class="c" style="animation-duration: 2.9s; animation-delay: 0.2s;"/></g>
-  </g>
-  <g transform="translate(900,0)">
-    <g transform="translate(10,0)"><use href="#drop" class="c" style="animation-duration: 3.7s; animation-delay: 1.8s;"/></g>
-    <g transform="translate(40,0)"><use href="#drop" class="c" style="animation-duration: 2.5s; animation-delay: 0.9s;"/></g>
-    <g transform="translate(70,0)"><use href="#drop" class="c" style="animation-duration: 4.2s; animation-delay: 0.3s;"/></g>
+  <rect width="100%" height="100%" class="bg"/>
+
+  <!-- colunas -->
+  <g>
+    <use href="#rain" x="20"/>
+    <use href="#rain" x="60"/>
+    <use href="#rain" x="100"/>
+    <use href="#rain" x="140"/>
+    <use href="#rain" x="180"/>
+    <use href="#rain" x="220"/>
+    <use href="#rain" x="260"/>
+    <use href="#rain" x="300"/>
+    <use href="#rain" x="340"/>
+    <use href="#rain" x="380"/>
+    <use href="#rain" x="420"/>
+    <use href="#rain" x="460"/>
+    <use href="#rain" x="500"/>
+    <use href="#rain" x="540"/>
+    <use href="#rain" x="580"/>
+    <use href="#rain" x="620"/>
+    <use href="#rain" x="660"/>
+    <use href="#rain" x="700"/>
+    <use href="#rain" x="740"/>
+    <use href="#rain" x="780"/>
+    <use href="#rain" x="820"/>
+    <use href="#rain" x="860"/>
+    <use href="#rain" x="900"/>
+    <use href="#rain" x="940"/>
+    <use href="#rain" x="980"/>
+    <use href="#rain" x="1020"/>
+    <use href="#rain" x="1060"/>
+    <use href="#rain" x="1100"/>
+    <use href="#rain" x="1140"/>
   </g>
 </svg>

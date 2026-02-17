@@ -2,8 +2,6 @@
   <img src="https://raw.githubusercontent.com/JuniorGaspar/JuniorGaspar/main/assets/matrix-code-rain.svg" width="100%"/>
 </p>
 
-<h3 align="center">SYSTEM INITIALIZATION</h3>
-
 ## [ SYSTEM SCAN ]
 
 ```text
