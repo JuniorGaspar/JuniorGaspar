@@ -20,14 +20,6 @@
 
 ## [ CORE METRICS ]
 
-<p align="center"> 
-  <img height="180em"
-       src="https://github-readme-stats-sigma-five.vercel.app/api?username=JuniorGaspar&show_icons=true&hide_border=true&bg_color=00000000&title_color=00ff41&text_color=00ff41&icon_color=00ff41"/>
-
-  <img height="180em"
-       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JuniorGaspar&layout=compact&hide_border=true&bg_color=00000000&title_color=00ff41&text_color=00ff41"/>
-</p>
-
 <p align="center">
   <img height="180em"
        src="https://streak-stats.demolab.com?user=JuniorGaspar&theme=transparent&hide_border=true&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=00ff41&sideNums=00ff41&dates=00ff41"/>
