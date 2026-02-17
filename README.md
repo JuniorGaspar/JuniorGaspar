@@ -1,11 +1,8 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Matrix_Digital_rain_banner.gif" width="100%"/>
+  <img src="https://raw.githubusercontent.com/JuniorGaspar/JuniorGaspar/main/assets/matrix-code-rain.svg" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Matrix_Digital_rain_banner.gif" width="900"/>
-</p>
-
+<h3 align="center">SYSTEM INITIALIZATION</h3>
 
 ## [ SYSTEM SCAN ]
 
