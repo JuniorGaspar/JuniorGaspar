@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00FF41&size=25&center=true&vCenter=true&width=700&lines=WAKE+UP,+JUNIOR...;THE+MATRIX+HAS+YOU...;BOOTING+ENTERPRISE+SYSTEMS...;CONNECTING+TO+LEGACY+DATABASES...;MODERNIZATION+IN+PROGRESS...;ACCESS_GRANTED" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00FF41&size=24&center=true&vCenter=true&width=900&lines=KNOCK,+KNOCK,+JUNIOR...;FOLLOW+THE+WHITE+RABBIT.;INITIALIZING+ENTERPRISE+SYSTEMS...;DECRYPTING+LEGACY+DATABASES...;REFACTORING+THE+MONOLITH...;SYSTEM+SPECIALIST+DETECTED...;WELCOME+TO+THE+REAL+WORLD." />
 </p>
 
 
