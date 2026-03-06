@@ -1,109 +1,47 @@
+# Olá! 👋 Eu sou o Junior Gaspar
 
-## [ SYSTEM SCAN ]
-
-```text
-  ID: Junior Gaspar
-  STATUS: ONLINE [ ████████████████████ ] 100%
-  LOCATION: BRAZIL/MARINGÁ - PR        
-```
-
----
-
-## [ CORE METRICS ]
-
-<p align="center">
-  <img height="180em"
-       src="https://streak-stats.demolab.com?user=JuniorGaspar&theme=transparent&hide_border=true&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=00ff41&sideNums=00ff41&dates=00ff41"/>
-</p>
-
-<p align="center">
-  <img width="100%"
-       src="https://github-readme-activity-graph.vercel.app/graph?username=JuniorGaspar&bg_color=transparent&color=00ff41&line=00ff41&point=00ff41&hide_border=true"/>
-</p>
-
----
-
-## [ ACTIVE PROCESSES ]
-
-```bash
-# Executing Core Functions...
-> [ LEGACY SYSTEM MODERNIZATION ] ................. OK
-> [ FULL STACK DEVELOPMENT ] ...................... OK
-> [ API – REST | GRAPHQL ] ........................ OK 
-> [ DATABASE DEVELOPMENT – SQL SERVER | ORACLE ] .. OK 
-> [ SYSTEM INTEGRATION ] .......................... OK
-```
-
----
-
-## [ EXTENDED LOGS ]
-
-<details>
-  <summary>🟢 RUN SCRIPT</summary>
-
-```bash
-$ decrypt --contact
-[ SYSTEM OVERRIDE ]
-[ ACCESS GRANTED ]
-UPLINK: junior.gaspar2@gmail.com
-
-$ access --enterprise-projects
-ACCESS DENIED
-
-$ cat career.log
-
-| ENTERPRISE           | STATUS     | LEVEL             | CYCLE         |
-| :---                 | :---       | :---              | :---          |
-| **VITRU EDUCAÇÃO**   | `RUNNING`  | SENIOR SPECIALIST | 2021 – PRESENT|
-| **CSD DISTRIBUIÇÃO** | `ARCHIVED` | SENIOR SPECIALIST | 2017 – 2021   |
-| **ATAK SISTEMAS**    | `ARCHIVED` | ANALYST           | 2011 – 2017   |
-
-$ systemctl status system_specialist.service
-
-● system_specialist.service - Junior Gaspar
-   Loaded: loaded (/etc/systemd/system/system_specialist.service)
-   Active: active (running) since 2011
-   Main PID: 0110 (core-engine)
-
-   ROLE: System Specialist
-   ENVIRONMENT: Enterprise
-   EXPERIENCE: 14+ years
-   STATUS: ACTIVE
-
-```
-
-</details>
-
----
-
-## [ KERNEL MODULES ]
+<table align="center">
+  <tr>
+    <td width="60%">
+      <h3>👤 Perfil Profissional</h3>
+      <p align="justify">
+        Baseado em <b>Maringá - PR</b>, sou Especialista em Sistemas com mais de <b>14 anos de experiência</b> no mercado corporativo. 
+        Atualmente, atuo como <b>Senior Specialist</b> na <b>Vitru Educação</b>, onde foco na modernização de sistemas legados, 
+        arquitetura de APIs e integração de ecossistemas complexos.
+      </p>
+      <p>
+        📫 <b>Entre em contato:</b><br>
+        <a href="mailto:junior.gaspar2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+        <a href="https://www.linkedin.com/in/junior-gaspar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+      </p>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=JuniorGaspar&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=555" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
+### 🛠️ Linguagens e Tecnologias
 
 <p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-00FF41?style=for-the-badge&logo=web&logoColor=black" />
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="25" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" height="25" />
 </p>
 
 ---
 
-## [ SECURE UPLINK ]
+### 📊 Estatísticas
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/junior-gaspar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JuniorGaspar&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=555&locale=pt-br" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorGaspar&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&text_color=555&locale=pt-br" alt="Top Langs" />
 </p>
 
 ---
-
-<p align="center">
-  <b>THE SYSTEM IS RUNNING.</b>
-</p>
