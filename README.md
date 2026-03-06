@@ -32,10 +32,7 @@
 </p>
 
 ---
-
 <p align="center">
-  <img width="45%" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=JuniorGaspar&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="45%" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=JuniorGaspar&layout=compact&theme=github_dark&hide_border=true" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=JuniorGaspar&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorGaspar&layout=compact&theme=github_dark&hide_border=true" />
 </p>
-
----
