@@ -1,8 +1,8 @@
-# Olá! 👋 Eu sou o Junior Gaspar
+# Olá! 👋
 
 <table align="center">
   <tr>
-    <td width="60%">
+    <td width="100%">
       <h3>👤 Perfil Profissional</h3>
       <p align="justify">
         Baseado em <b>Maringá - PR</b>, sou Especialista em Sistemas com mais de <b>14 anos de experiência</b> no mercado corporativo. 
@@ -10,17 +10,13 @@
         arquitetura de APIs e integração de ecossistemas complexos.
       </p>
       <p>
-        📫 <b>Entre em contato:</b><br>
+        <br>
         <a href="mailto:junior.gaspar2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
         <a href="https://www.linkedin.com/in/junior-gaspar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
       </p>
     </td>
-    <td width="40%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=JuniorGaspar&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=555" alt="GitHub Stats" />
-    </td>
   </tr>
 </table>
-### 🛠️ Linguagens e Tecnologias
 
 <p align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="25" />
@@ -37,11 +33,13 @@
 
 ---
 
-### 📊 Estatísticas
-
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JuniorGaspar&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=555&locale=pt-br" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorGaspar&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&text_color=555&locale=pt-br" alt="Top Langs" />
+  <img width="48%" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=JuniorGaspar&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&text_color=555&locale=pt-br" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://streak-stats.demolab.com?user=JuniorGaspar&theme=transparent&hide_border=true&stroke=0077B5&ring=0077B5&fire=0077B5&currStreakLabel=0077B5" alt="GitHub Streak" />
 </p>
 
 ---
