@@ -34,12 +34,9 @@
 ---
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JuniorGaspar&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=555&locale=pt-br" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=JuniorGaspar&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&text_color=555&locale=pt-br" alt="Top Langs" />
-</p>
+<img width="45%" src="https://github-readme-stats.vercel.app/api?username=JuniorGaspar&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorGaspar&layout=compact&theme=transparent&hide_border=true"/>
 
-<p align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=JuniorGaspar&theme=transparent&hide_border=true&stroke=0077B5&ring=0077B5&fire=0077B5&currStreakLabel=0077B5" alt="GitHub Streak" />
 </p>
 
 ---
