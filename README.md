@@ -33,7 +33,9 @@
 
 ---
 <p align="center">
-  <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JuniorGaspar&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-
-  <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JuniorGaspar&layout=compact&theme=github_dark&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JuniorGaspar&theme=github-dark&hide_border=true"/>
+<img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JuniorGaspar&layout=donut&theme=github_dark&hide_border=true&count_private=true"/>
+</p>
+<p align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorGaspar&layout=compact&theme=github_dark&hide_border=true&langs_count=10&exclude_repo=github-readme-stats"/>
 </p>
