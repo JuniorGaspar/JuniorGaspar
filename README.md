@@ -6,10 +6,12 @@
       <h3>👤 Perfil Profissional</h3>
       <p align="justify">
         Especialista em Sistemas com mais de <b>14 anos de experiência</b> na área de tecnologia.
-        Atualmente, atuo como <b>Senior Specialist</b> na <b>Vitru Educação</b>.
-	Minha trajetória combina a visão da Administração com o desenvolvimento técnico de soluções, com atuação em setores como Indústria e Distribuição, Varejo, E-commerce e Sistemas Acadêmicos.
-	<br>
-	Atualmente, foco no desenvolvimento Full Stack com experiência na modernização de sistemas legados e migração para arquiteturas baseadas em APIs (REST e GraphQL), além de domínio em bancos de dados SQL Server e Oracle (PL/SQL).
+        <br>
+		Minha trajetória combina a visão da Administração com o desenvolvimento técnico de soluções, com atuação em setores como Indústria e Distribuição, 
+		  Varejo, E-commerce e Sistemas Acadêmicos.
+		<br><br>
+		Atualmente, foco no desenvolvimento Full Stack com experiência na modernização de sistemas legados e migração para arquiteturas baseadas em APIs (REST e GraphQL),
+		  além de domínio em bancos de dados SQL Server e Oracle (PL/SQL).
       </p>
       <p>
         <br>
