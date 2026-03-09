@@ -11,7 +11,7 @@
 		  Varejo, E-commerce e Sistemas Acadêmicos.
 		<br><br>
 		Atualmente, foco no desenvolvimento Full Stack com experiência na modernização de sistemas legados e migração para arquiteturas baseadas em APIs (REST e GraphQL),
-		  além de domínio em bancos de dados SQL Server e Oracle (PL/SQL).
+		  além de domínio em bancos de dados SQL Server (T-SQL) e Oracle (PL/SQL).
       </p>
       <p>
         <br>
