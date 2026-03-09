@@ -5,9 +5,8 @@
     <td width="100%">
       <h3>👤 Perfil Profissional</h3>
       <p align="justify">
-        Baseado em <b>Maringá - PR</b>, sou Especialista em Sistemas com mais de <b>14 anos de experiência</b> no mercado corporativo. 
-        Atualmente, atuo como <b>Senior Specialist</b> na <b>Vitru Educação</b>, onde foco na modernização de sistemas legados, 
-        arquitetura de APIs e integração de ecossistemas complexos.
+        Baseado em <b>Maringá - PR</b>, Especialista em Sistemas com mais de <b>14 anos de experiência</b> no mercado corporativo. 
+        Atualmente, atuo como <b>Senior Specialist</b> na <b>Vitru Educação</b>, onde foco na modernização de sistemas legados e integração de ecossistemas complexos.
       </p>
       <p>
         <br>
