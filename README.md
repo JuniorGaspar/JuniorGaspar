@@ -5,7 +5,7 @@
     <td width="100%">
       <h3>👤 Perfil Profissional</h3>
       <p align="justify">
-        Especialista em Sistemas com mais de <b>14 anos de experiência</b> na área de tecnologia.
+        <b>15 anos de experiência</b> na área de tecnologia.
         <br>
 		Minha trajetória combina a visão da Administração com o desenvolvimento técnico de soluções, com atuação em setores como Indústria e Distribuição, 
 		  Varejo, E-commerce e Sistemas Acadêmicos.
